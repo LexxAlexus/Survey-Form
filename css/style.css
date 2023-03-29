@@ -1,9 +1,25 @@
 * {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 .center {
-    width: 400px;
+    width: 550px;
+    margin: auto;
+    border: 4px solid sandybrown;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+h1 {
+    color: rosybrown;
+    background-color: bisque;
+    padding: 10px;
+}
+
+legend {
     margin: auto;
 }
+
